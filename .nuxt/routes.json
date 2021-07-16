@@ -1,0 +1,57 @@
+[
+  {
+    "path": "/",
+    "component": "/Users/xiaoqi/Desktop/MyRepository/nuxt-demo/pages/layout",
+    "children": [
+      {
+        "path": "",
+        "name": "home",
+        "component": "/Users/xiaoqi/Desktop/MyRepository/nuxt-demo/pages/home",
+        "_name": "_1150b28c"
+      },
+      {
+        "path": "/login",
+        "name": "login",
+        "component": "/Users/xiaoqi/Desktop/MyRepository/nuxt-demo/pages/login",
+        "_name": "_18550e24"
+      },
+      {
+        "path": "/register",
+        "name": "register",
+        "component": "/Users/xiaoqi/Desktop/MyRepository/nuxt-demo/pages/login",
+        "_name": "_18550e24"
+      },
+      {
+        "path": "/profile/:username",
+        "name": "profile",
+        "component": "/Users/xiaoqi/Desktop/MyRepository/nuxt-demo/pages/profile",
+        "_name": "_2d81c5ee"
+      },
+      {
+        "path": "/profile/:username/:tag",
+        "name": "profile",
+        "component": "/Users/xiaoqi/Desktop/MyRepository/nuxt-demo/pages/profile",
+        "_name": "_2d81c5ee"
+      },
+      {
+        "path": "/settings",
+        "name": "settings",
+        "component": "/Users/xiaoqi/Desktop/MyRepository/nuxt-demo/pages/settings",
+        "_name": "_13f7087e"
+      },
+      {
+        "path": "/editor",
+        "name": "editor",
+        "component": "/Users/xiaoqi/Desktop/MyRepository/nuxt-demo/pages/editor",
+        "_name": "_7a4dc888"
+      },
+      {
+        "path": "/article/:slug",
+        "name": "article",
+        "component": "/Users/xiaoqi/Desktop/MyRepository/nuxt-demo/pages/article",
+        "_name": "_144c093b"
+      }
+    ],
+    "_name": "_f3c6bb76"
+  }
+]
